@@ -20,7 +20,7 @@ jobs:
 
       - name: Set up Git configuration
         run: |
-          git config --local user.email "@gmail.com"
+          git config --local user.email "naokedoul@gmail.com"
           git config --local user.name "naokedoul-lgtm"
 
       - name: Make changes
